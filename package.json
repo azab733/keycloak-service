@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "express-session": "^1.17.2",
+    "express-session": "^1.17.3",
     "keycloak-connect": "^10.0.2"
   }
 }
