@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "keycloak-connect": "^21.1.1"
   }
